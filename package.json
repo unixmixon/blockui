@@ -9,7 +9,7 @@
     "modal"
   ],
   "main": "jquery.blockUI.js",
-  "version": "2.70.0-2014.11.23",
+  "version": "2.70.0",
   "author": {
     "name": "M. Alsup",
     "url": "http://jquery.malsup.com"
